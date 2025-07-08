@@ -42,4 +42,6 @@ The dataset contains records from various devices over time, including:
 (RMSE)* = 23.66
 R² score = 0.84
 
-![Graph Description](""C:\Users\janya\OneDrive\Desktop\RUL\Graph.jpg")
+### Actual vs Predicted Scatter plot
+
+![MongoView](Graph.jpg)
